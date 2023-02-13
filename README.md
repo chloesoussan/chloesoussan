@@ -5,9 +5,9 @@
 
 - 🌱 &nbsp; I’m currently learning Data science & analysis
 - 🎓 &nbsp; Studying Computer Science at ECE Engineering school in Paris 
-- 💬 &nbsp; Ask me about my experiences at <a href="https://portfolio-chloesoussan.fr/stage.html/">portfolio-chloesoussan.fr/stage.html</a>
+- 💬 &nbsp; Ask me about my experiences at <a href="https://portfolio-chloesoussan.fr/stage.html/">https://chloesoussan.github.io/portfolio/stage.html</a>
 - 📫 &nbsp; How to reach me: chloesoussan5@gmail.com
-- 👨‍💻 &nbsp; All of my projects are available at <a href="https://portfolio-chloesoussan.fr/">portfolio-chloesoussan.fr</a>
+- 👨‍💻 &nbsp; All of my projects are available at <a href="https://portfolio-chloesoussan.fr/">https://chloesoussan.github.io/portfolio/index.html</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://portfolio-chloesoussan.fr/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-chloesoussan.fr-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://chloesoussan.github.io/portfolio/index.html/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-chloesoussan.fr-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://https://www.linkedin.com/in/chlo%C3%A9-soussan-657ba3198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chloé%20Soussan%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:chloesoussan5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chloesoussan5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
