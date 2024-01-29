@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌱 &nbsp; I’m currently learning Data science & analysis
-- 🎓 &nbsp; Studying Computer Science at ECE Engineering school in Paris 
+- 🎓 &nbsp; Studying Computer Science & management at Sorbonne university in Paris 
 - 💬 &nbsp; Ask me about my experiences at <a href="https://chloesoussan.github.io/portfolio/stage.html/">https://chloesoussan.github.io/portfolio/stage.html</a>
 - 📫 &nbsp; How to reach me: chloesoussan5@gmail.com
 - 👨‍💻 &nbsp; All of my projects are available at <a href="https://chloesoussan.github.io/portfolio/">https://chloesoussan.github.io/portfolio/</a>
